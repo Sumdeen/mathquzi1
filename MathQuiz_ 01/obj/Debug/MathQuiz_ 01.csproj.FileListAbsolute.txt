@@ -1,0 +1,10 @@
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\bin\Debug\MathQuiz_ 01.exe.config
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\bin\Debug\MathQuiz_ 01.exe
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\bin\Debug\MathQuiz_ 01.pdb
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz_ 01.csproj.AssemblyReference.cache
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz__01.Form1.resources
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz__01.Properties.Resources.resources
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz_ 01.csproj.GenerateResource.cache
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz_ 01.csproj.CoreCompileInputs.cache
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz_ 01.exe
+C:\Users\stars\Desktop\Barclays 2\MathQuiz_ 01\obj\Debug\MathQuiz_ 01.pdb
